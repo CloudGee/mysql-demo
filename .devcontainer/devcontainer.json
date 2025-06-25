@@ -26,6 +26,8 @@
             },
             "extensions": [
                 "ms-python.python",
+                "cweijan.vscode-mysql-client2",
+                "Oracle.mysql-shell-for-vs-code",
                 "ms-python.vscode-pylance",
                 "DaltonMenezes.aura-theme",
                 "equinusocio.vsc-material-theme-icons",
